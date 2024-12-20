@@ -1,0 +1,22 @@
+.titulo{
+    font-size: 40px;
+}
+.logo{
+    width: 400px;
+    padding-left: 20%;
+}
+
+#principal{
+    font-size: 70px;
+    padding-left: 5%;
+}
+#subtitulos{
+    font-size: 35px;
+    padding-left: 32%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#logojavavisual{
+    font-size: 35px;
+    padding-left: 30%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
